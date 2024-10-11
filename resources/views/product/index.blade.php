@@ -46,6 +46,7 @@
                                 <label>Price</label>
                                 <input type="text" class="form-control" name="price">
                             </div>
+
                         </div>
                         <div class="row">
                             <div class="col-md-12 mt-3">

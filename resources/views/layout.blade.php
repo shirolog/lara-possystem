@@ -21,7 +21,7 @@
                                 <a class="nav-link active" aria-current="page" href="{{url('/category')}}">Category</a>
                                 <a class="nav-link active" aria-current="page" href="{{url('/brand')}}">Brand</a>
                                 <a class="nav-link active" aria-current="page" href="{{url('/product')}}">Product</a>
-                                <a class="nav-link active" aria-current="page" href="#">Sales</a>
+                                <a class="nav-link active" aria-current="page" href="{{url('/order')}}">Orders</a>
 
                             </div>
                         </div>

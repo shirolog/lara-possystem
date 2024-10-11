@@ -45,6 +45,7 @@
                             <label>Price</label>
                             <input type="text" class="form-control" name="price" value="{{$product->price}}">
                         </div>
+
                     </div>
           
                     <div class="row">
